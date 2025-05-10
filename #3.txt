@@ -1,0 +1,7 @@
+Started by user sunny
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins2402896415879872241.sh
++ hostname
+ip-172-31-23-245.ec2.internal
+Finished: SUCCESS
